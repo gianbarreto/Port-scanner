@@ -11,5 +11,5 @@ The **Port Scanner** project was developed to identify open ports on a target sy
 - Enhancing **cybersecurity awareness** by recognizing exposed services.  
 
 ## Tools Used  
-- **Python** – Core language for port scanning.  
+- **Python** – Core language. 
 - **Socket Library** – Used for establishing network connections.
