@@ -2,9 +2,9 @@ import socket
 
 ip = input("Enter the IP address: ")
 
-for port in range(1, 65535):
+for port in range(0, 65536):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.settimeout(5)
+    s.settimeout(2)
 
     result = s.connect_ex((ip, port))
 
