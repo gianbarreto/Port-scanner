@@ -27,7 +27,11 @@ The **Port Scanner** project was developed to identify open ports on a target sy
 
 ## How to Use  
 
-1. When you run the program and the GUI opens, you'll see fields for entering the IP address, Start Port, and End Port.
+1. Clone the repository or download the script.
+
+2. Run the script in your Python environment.
+
+3. When you run the program and the GUI opens, you'll see fields for entering the IP address, Start Port, and End Port.
 
     For example, use the following values:
     
@@ -35,6 +39,6 @@ The **Port Scanner** project was developed to identify open ports on a target sy
     Start Port: 80 (HTTP port)
     End Port: 90 (to scan a range of ports)
 
-2. After filling in the fields, click the "Start Scan" button. The program will begin scanning the ports in the specified range (in this case, from port 80 to 90).
+4. After filling in the fields, click the "Start Scan" button. The program will begin scanning the ports in the specified range (in this case, from port 80 to 90).
 
 **Clarification: the only ports that will appear in the GUI are the ones that are open. To see all the ports being scanned, they can be viewed in the terminal.**
