@@ -36,3 +36,5 @@ The **Port Scanner** project was developed to identify open ports on a target sy
     End Port: 90 (to scan a range of ports)
 
 2. After filling in the fields, click the "Start Scan" button. The program will begin scanning the ports in the specified range (in this case, from port 80 to 90).
+
+**Clarification: the only ports that will appear in the GUI are the ones that are open. To see all the ports being scanned, they can be viewed in the terminal.**
