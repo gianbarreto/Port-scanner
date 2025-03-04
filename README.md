@@ -27,7 +27,7 @@ The **Port Scanner** project was developed to identify open ports on a target sy
 
 ## How to Use  
 
-1. When the GUI opens, you'll see fields for entering the IP address, Start Port, and End Port.
+1. When you run the program and the GUI opens, you'll see fields for entering the IP address, Start Port, and End Port.
 
     For example, use the following values:
     
