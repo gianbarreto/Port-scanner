@@ -29,10 +29,10 @@ The **Port Scanner** project was developed to identify open ports on a target sy
 
 1. When the GUI opens, you'll see fields for entering the IP address, Start Port, and End Port.
 
-  For example, use the following values:
-
-  IP Address: 8.8.8.8 (Google DNS IP)
-  Start Port: 80 (HTTP port)
-  End Port: 90 (to scan a range of ports)
+    For example, use the following values:
+    
+    IP Address: 8.8.8.8 (Google DNS IP)
+    Start Port: 80 (HTTP port)
+    End Port: 90 (to scan a range of ports)
 
 2. After filling in the fields, click the "Start Scan" button. The program will begin scanning the ports in the specified range (in this case, from port 80 to 90).
